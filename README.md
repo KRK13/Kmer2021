@@ -1,6 +1,5 @@
 # Kmer Counting 
 
-Minegishi K., Rothé B., Komatsu KR. _et al._, Nature Communications (2021)
 
 Data analysis of Bind-n-seq using Bicc1 protein.
 
@@ -25,4 +24,4 @@ The frequency of each k-mer was determined and normalized by the sum of all freq
 To identify Bicc1-bound sequence elements, we collected the hexamers whose Z-score for the relative frequency was >3.0.
 
 ### Reference
-1. Fluid flow-induced left-right asymmetric decay of Dand5 mRNA in the mouse embryo requires Bicc1-Ccr4 RNA degradation complex 
+1. Fluid flow-induced left-right asymmetric decay of Dand5 mRNA in the mouse embryo requires Bicc1-Ccr4 RNA degradation complex. Minegishi K., Rothé B., Komatsu KR. _et al._, Nature Communications (2021)
