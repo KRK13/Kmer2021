@@ -8,7 +8,7 @@ Sequencing data are available to download from Gene Expression Omnibus (GEO) und
 
 ### Requirements:
 
-Julia 1.6.0. (2021-05-05)
+Julia 1.6.0. 
 
 ### Preprocessing
 Quality filters remove the following reads.
